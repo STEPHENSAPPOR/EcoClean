@@ -1,14 +1,14 @@
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
-import energyImage from "../assets/images/energy.jpg";
+import renewImage from "../assets/images/renew.jpg";
 import panelsImage from "../assets/images/panels.jpg";
 
 
 const Product = () => {
   const images = [
     {
-      src: energyImage,
+      src: renewImage,
       title: 'Peak Efficiency',
       description: 'Advanced dust detection systems | Automated cleaning robots'
     },
