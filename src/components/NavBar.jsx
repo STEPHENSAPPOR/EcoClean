@@ -12,8 +12,8 @@ const NavBar = () => {
   };
 
   return (
-    <nav className="bg-white backdrop-blur-md shadow-md fixed w-full top-0 left-0 z-50">
-      <div className="container mx-auto px-6 py-2 flex items-center">
+    <nav className="bg-white/80 backdrop-blur-md shadow-md fixed w-full top-0 left-0 z-50">
+      <div className="container mx-auto px-6 py-2 flex items-center justify-between">
         {/* Logo */}
         <a href="#" className="flex items-center">
           <img src={logoImage} alt="Logo" className="h-12" />
@@ -84,7 +84,7 @@ const NavBar = () => {
 
       {/* Mobile Menu Items */}
       {isMobileMenuOpen && (
-        <ul className="flex flex-col gap-4 mt-4 backdrop-blur-md p-4 rounded-lg">
+        <ul className="flex flex-col gap-4 mt-4 bg-white/80 backdrop-blur-md p-4 rounded-lg">
           <li>
             <Link
               to="home"

@@ -1,4 +1,4 @@
-import energyImage from '../assets/images/energy.jpg';
+import synergyImage from '../assets/images/synergy.png';
 
 const Blog = () => {
   return (
@@ -13,7 +13,7 @@ const Blog = () => {
       {/* Solar Panels Installation Section */}
       <div className="flex flex-col md:flex-row items-center bg-white shadow-md rounded-lg mt-12 p-6">
         <img
-          src={energyImage}
+          src={synergyImage}
           alt="Solar Panels"
           className="w-full md:w-1/2 rounded-lg object-cover"
         />
