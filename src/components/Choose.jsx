@@ -8,7 +8,7 @@ const Choose = () => {
         {/* Card 1 */}
         <div className="relative p-8 bg-white rounded-lg shadow-lg">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2">
-            <div className="bg-[#FDDB22] p-4 rounded-full">
+            <div className="bg-[#5bb450] p-4 rounded-full">
               <Code className="text-white text-3xl" />
             </div>
           </div>
@@ -22,7 +22,7 @@ const Choose = () => {
         {/* Card 2 */}
         <div className="relative p-8 bg-white rounded-lg shadow-lg">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2">
-            <div className="bg-[#FDDB22] p-4 rounded-full">
+            <div className="bg-[#5bb450] p-4 rounded-full">
               <Smartphone className="text-white text-3xl" />
             </div>
           </div>
@@ -36,7 +36,7 @@ const Choose = () => {
         {/* Card 3 */}
         <div className="relative p-8 bg-white rounded-lg shadow-lg">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2">
-            <div className="bg-[#FDDB22] p-4 rounded-full">
+            <div className="bg-[#5bb450] p-4 rounded-full">
               <Cloud className="text-white text-3xl" />
             </div>
           </div>

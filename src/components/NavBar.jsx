@@ -26,7 +26,7 @@ const NavBar = () => {
             to="about"
             smooth={true}
             duration={500}
-            className="text-[#FDDB22] font-bold text-xl hover:text-[#FDDB22] cursor-pointer"
+            className="text-[#5bb450] font-bold text-xl hover:text-[#5bb450] cursor-pointer"
           >
             Home
           </Link>
@@ -34,7 +34,7 @@ const NavBar = () => {
             to="product"
             smooth={true}
             duration={500}
-            className="text-[#FDDB22] font-bold text-xl hover:text-[#FDDB22] cursor-pointer"
+            className="text-[#5bb450] font-bold text-xl hover:text-[#5bb450] cursor-pointer"
           >
             Products
           </Link>
@@ -42,7 +42,7 @@ const NavBar = () => {
             to="services"
             smooth={true}
             duration={500}
-            className="text-[#FDDB22] font-bold text-xl hover:text-[#FDDB22] cursor-pointer"
+            className="text-[#5bb450] font-bold text-xl hover:text-[#5bb450] cursor-pointer"
           >
             Services
           </Link>
@@ -50,7 +50,7 @@ const NavBar = () => {
             to="blog"
             smooth={true}
             duration={500}
-            className="text-[#FDDB22] font-bold text-xl hover:text-[#FDDB22] cursor-pointer"
+            className="text-[#5bb450] font-bold text-xl hover:text-[#5bb450] cursor-pointer"
           >
             Blog
           </Link>
@@ -58,7 +58,7 @@ const NavBar = () => {
             to="team"
             smooth={true}
             duration={500}
-            className="text-[#FDDB22] font-bold text-xl hover:text-[#FDDB22] cursor-pointer"
+            className="text-[#5bb450] font-bold text-xl hover:text-[#5bb450] cursor-pointer"
           >
             Team
           </Link>
@@ -66,7 +66,7 @@ const NavBar = () => {
 
         {/* Mobile Menu Button */}
         <div className="md:hidden flex items-center">
-          <button className="text-[#FDDB22] hover:text-[#FDDB22]" onClick={toggleMobileMenu}>
+          <button className="text-[#5bb450] hover:text-[#5bb450]" onClick={toggleMobileMenu}>
             {isMobileMenuOpen ? (
               <FaTimes className="h-6 w-6" />
             ) : (
@@ -79,10 +79,10 @@ const NavBar = () => {
       {/* Mobile Menu Items */}
       {isMobileMenuOpen && (
         <ul className="flex flex-col gap-4 mt-4 backdrop-blur-md p-4 rounded-lg">
-          <li><Link to="about" smooth={true} duration={500} className="text-[#FDDB22] font-bold text-xl">Home</Link></li>
-          <li><Link to="product" smooth={true} duration={500} className="text-[#FDDB22] font-bold text-xl">Products</Link></li>
-          <li><Link to="services" smooth={true} duration={500} className="text-[#FDDB22] font-bold text-xl">Services</Link></li>
-          <li><Link to="team" smooth={true} duration={500} className="text-[#FDDB22] font-bold text-xl">Team</Link></li>
+          <li><Link to="about" smooth={true} duration={500} className="text-[#5bb450] font-bold text-xl">Home</Link></li>
+          <li><Link to="product" smooth={true} duration={500} className="text-[#5bb450] font-bold text-xl">Products</Link></li>
+          <li><Link to="services" smooth={true} duration={500} className="text-[#5bb450] font-bold text-xl">Services</Link></li>
+          <li><Link to="team" smooth={true} duration={500} className="text-[#5bb450] font-bold text-xl">Team</Link></li>
         </ul>
       )}
     </nav>

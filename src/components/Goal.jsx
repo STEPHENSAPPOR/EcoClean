@@ -10,7 +10,7 @@ const Goal = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {/* First Grid Item */}
           <div className="p-4 sm:p-6 rounded-lg shadow-lg text-center bg-[#212542] ">
-            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#FDDB22]">Our Vision</h3>
+            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#5bb450]">Our Vision</h3>
             <p className="text-sm sm:text-base md:text-lg text-white">
               To be the global leader in innovative solar panel cleaning and maintenance solutions, driving
               the transition to sustainable energy through cutting-edge technology and exceptional
@@ -19,7 +19,7 @@ const Goal = () => {
           </div>
           {/* Second Grid Item */}
           <div className="p-4 sm:p-6 rounded-lg shadow-lg text-center bg-[#212542] ">
-            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#FDDB22]">Our Mission</h3>
+            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#5bb450]">Our Mission</h3>
             <p className="text-sm sm:text-base md:text-lg text-white">
               To maximize the efficiency of solar panels by providing state-of-the-art dust detection and
               cleaning solutions, alongside expert installation and maintenance services, contributing to a
@@ -28,7 +28,7 @@ const Goal = () => {
           </div>
           {/* Third Grid Item */}
           <div className="p-4 sm:p-6 rounded-lg shadow-lg text-center bg-[#212542] ">
-            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#FDDB22]">Ingenuity</h3>
+            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#5bb450]">Ingenuity</h3>
             <p className="text-sm sm:text-base md:text-lg text-white">
               At EcoClean Solutions, we pride ourselves on our ingenuity. Our team of engineers and
               technicians is constantly pushing the boundaries of technology to develop groundbreaking
@@ -38,7 +38,7 @@ const Goal = () => {
           </div>
           {/* Fourth Grid Item */}
           <div className="p-4 sm:p-6 rounded-lg shadow-lg text-center bg-[#212542] ">
-            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#FDDB22]">Excellence</h3>
+            <h3 className="text-xl sm:text-2xl font-bold mb-4 text-[#5bb450]">Excellence</h3>
             <p className="text-sm sm:text-base md:text-lg text-white">
               We strive for excellence in everything we do. From our advanced technological solutions to
               our customer service, we aim to exceed expectations and deliver unmatched quality. Our

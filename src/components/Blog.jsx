@@ -8,11 +8,11 @@ const Blog = () => {
        {/* Custom UI Section */}
        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-12">
         {/* Card 1 */}
-        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#FDDB22]">
+        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#5bb450]">
           <div className="flex-shrink-0 w-16 h-16 flex items-center justify-center bg-orange-100 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="w-8 h-8 text-[#FDDB22]"
+              className="w-8 h-8 text-[#5bb450]"
               viewBox="0 0 24 24"
               fill="currentColor"
             >
@@ -30,11 +30,11 @@ const Blog = () => {
           </div>
         </div>
         {/* Card 2 */}
-        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#FDDB22]">
+        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#5bb450]">
           <div className="flex-shrink-0 w-16 h-16 flex items-center justify-center bg-orange-100 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="w-8 h-8 text-[#FDDB22]"
+              className="w-8 h-8 text-[#5bb450]"
               viewBox="0 0 24 24"
               fill="currentColor"
             >
@@ -50,11 +50,11 @@ const Blog = () => {
           </div>
         </div>
         {/* Card 3 */}
-        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#FDDB22]">
+        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#5bb450]">
           <div className="flex-shrink-0 w-16 h-16 flex items-center justify-center bg-orange-100 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="w-8 h-8 text-[#FDDB22]"
+              className="w-8 h-8 text-[#5bb450]"
               viewBox="0 0 24 24"
               fill="currentColor"
             >
@@ -71,11 +71,11 @@ const Blog = () => {
           </div>
         </div>
         {/* Card 4 */}
-        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#FDDB22]">
+        <div className="flex items-center p-4 bg-white shadow-md rounded-md border-l-4 border-[#5bb450]">
           <div className="flex-shrink-0 w-16 h-16 flex items-center justify-center bg-orange-100 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="w-8 h-8 text-[#FDDB22]"
+              className="w-8 h-8 text-[#5bb450]"
               viewBox="0 0 24 24"
               fill="currentColor"
             >

@@ -49,7 +49,7 @@ const Product = () => {
               style={{ height: 'auto', maxHeight: '450px' }} // Adjust the max height as needed
             />
             <div className="absolute inset-0 flex flex-col items-center justify-center text-center p-4 md:p-6 bg-black bg-opacity-50">
-              <h3 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-[#FDDB22] mb-2">
+              <h3 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-[#5bb450] mb-2">
                 {image.title}
               </h3>
               <p className="text-sm sm:text-base md:text-lg lg:text-xl text-white">
