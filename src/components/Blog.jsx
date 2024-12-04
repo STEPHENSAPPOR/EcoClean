@@ -21,12 +21,11 @@ const Blog = () => {
           </div>
           <div className="ml-4">
             <h3 className="font-bold text-lg text-gray-800">
-              ACCEPT CUSTOMIZED REQUIREMENTS
+            CUSTOMER SATISFACTION
             </h3>
             <p className="text-gray-600 text-sm">
-              As a professional photovoltaic module manufacturer, SUNERGY
-              provides OEM/ODM service. Power, appearance, packaging, and other
-              details can also be customized.
+            Client satisfaction is our top priority, and we go above
+            and beyond to meet their needs.
             </p>
           </div>
         </div>
@@ -84,10 +83,10 @@ const Blog = () => {
             </svg>
           </div>
           <div className="ml-4">
-            <h3 className="font-bold text-lg text-gray-800">FAST DELIVERY</h3>
+            <h3 className="font-bold text-lg text-gray-800">MAINTENANCE</h3>
             <p className="text-gray-600 text-sm">
-              SUNERGY has a complete production and delivery management system
-              with fast production and delivery.
+            Our comprehensive maintenance packages include regular
+            inspections, cleaning, and repairs to keep your solar panels in top condition.
             </p>
           </div>
         </div>
