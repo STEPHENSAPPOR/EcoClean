@@ -1,10 +1,10 @@
-import panelsImage from "../assets/images/panels.jpg";
+import synergyImage from "../assets/images/synergy.png";
 
 const About = () => {
   return (
     <div
       className="relative h-screen bg-cover bg-center mt-12"
-      style={{ backgroundImage: `url(${panelsImage})` }}
+      style={{ backgroundImage: `url(${synergyImage})` }}
     >
       <div className="absolute inset-0 flex items-center justify-center bg-[#212542] bg-opacity-50">
         <div className="text-center text-white p-6 max-w-lg sm:p-8 md:max-w-xl lg:max-w-2xl">

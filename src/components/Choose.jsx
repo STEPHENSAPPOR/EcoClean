@@ -47,6 +47,9 @@ const Choose = () => {
           </p>
         </div>
       </div>
+
+
+      
     </div>
   );
 };

@@ -43,17 +43,17 @@ const Services = () => {
           </div>
         </div>
 
-        <div className="lg:w-1/2">
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+        <div className="lg:w-1/2 ">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 ">
             {services.map((service, index) => (
-              <div key={index} className="bg-white text-gray-900 p-6 rounded-lg shadow-md flex items-start">
+              <div key={index} className="bg-white text-gray-900 p-6 rounded-lg shadow-md flex items-start border-l-4 border-[#FDDB22]">
                 <div className="mr-4 text-blue-400">
                   <div className="bg-[#212542]  text-white p-4 rounded-full shadow-md">
                     {service.icon}
                   </div>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold mb-1">{service.title}</h3>
+                  <h3 className="text-lg font-semibold mb-1 text-[#FDDB22]">{service.title}</h3>
                   <p className="text-gray-500 text-sm">{service.description}</p>
                 </div>
               </div>
