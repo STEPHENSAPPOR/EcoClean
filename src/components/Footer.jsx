@@ -28,15 +28,15 @@ const Footer = () => {
       <div className="flex flex-col md:flex-row flex-wrap justify-center gap-6 md:gap-8 text-[#5bb450]">
         <div className="flex flex-col items-center text-sm md:text-base">
           <Phone className="text-[#5bb450] mb-2" size={20} />
-          <p>+233 542947043</p>
+          <p>+233 54 734 7335</p>
         </div>
         <div className="flex flex-col items-center text-sm md:text-base">
           <MapPin className="text-[text-[#5bb450] mb-2" size={20} />
-          <p>RoxyApps Limited<br />P.O Box AN 6651<br />Accra - North, Ghana</p>
+          <p>EcoClean Solutions<br/>72X2+P2Q, Tarkwa - Esiama Rd, Tarkwa</p>
         </div>
         <div className="flex flex-col items-center text-sm md:text-base">
           <Mail className="text-[#5bb450] mb-2" size={20} />
-          <p>info@roxyapps.com</p>
+          <p>ecocleansolutions56@gmail.com</p>
         </div>
         <div className="flex flex-col items-center text-sm md:text-base">
           <Clock className="text-[#5bb450] mb-2" size={20} />
