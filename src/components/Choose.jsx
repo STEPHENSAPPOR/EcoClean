@@ -6,7 +6,7 @@ const Choose = () => {
       <h2 className="text-3xl font-bold text-center mb-12 text-white">Why Choose Us</h2>
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Card 1 */}
-        <div className="relative p-8 bg-white rounded-lg shadow-lg">
+        <div className="relative p-8 bg-white rounded-lg shadow-lg border-l-4 border-[#5bb450]">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2">
             <div className="bg-[#5bb450] p-4 rounded-full">
               <Code className="text-white text-3xl" />
@@ -20,7 +20,7 @@ const Choose = () => {
         </div>
 
         {/* Card 2 */}
-        <div className="relative p-8 bg-white rounded-lg shadow-lg">
+        <div className="relative p-8 bg-white rounded-lg shadow-lg border-l-4 border-[#5bb450]">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2">
             <div className="bg-[#5bb450] p-4 rounded-full">
               <Smartphone className="text-white text-3xl" />
@@ -34,7 +34,7 @@ const Choose = () => {
         </div>
 
         {/* Card 3 */}
-        <div className="relative p-8 bg-white rounded-lg shadow-lg">
+        <div className="relative p-8 bg-white rounded-lg shadow-lg border-l-4 border-[#5bb450]">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2">
             <div className="bg-[#5bb450] p-4 rounded-full">
               <Cloud className="text-white text-3xl" />

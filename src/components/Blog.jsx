@@ -4,14 +4,11 @@ const Blog = () => {
   return (
     <div className="py-8 px-4 sm:px-6 lg:px-8">
       {/* Blog Section */}
-
-
-
       <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-6 pb-2 pt-4 flex justify-center items-center">
         BLOG
       </h2>
       {/* Solar Panels Installation Section */}
-      <div className="flex flex-col md:flex-row items-center bg-white shadow-md rounded-lg mt-12 p-6">
+      <div className="flex flex-col md:flex-row items-center bg-white shadow-md rounded-lg mt-12 p-6 border-l-4 border-[#5bb450]">
         <img
           src={synergyImage}
           alt="Solar Panels"

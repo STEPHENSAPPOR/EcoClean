@@ -12,7 +12,7 @@ const About = () => {
           EcoClean Solutions
           </h2>
           <p className="mb-6 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
-            EcoClean Solutions is a pioneering company dedicated to enhancing
+            Pioneering company dedicated to enhancing
             the efficiency and longevity of solar panels through innovative dust
             detection and automated cleaning solutions.  
           </p>

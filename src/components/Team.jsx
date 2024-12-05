@@ -12,10 +12,10 @@ const Team = () => {
         />
         <div className="px-6 py-4">
           <h2 className="text-2xl font-semibold text-gray-800">
-            Renewable Energy Engineering Student
+            Joshua Dery - CEO
           </h2>
           <p className="text-gray-600 mt-2">
-            Passionate about integrating sustainable solar solutions in the mining sector. Skilled in graphic design, data analysis, and emerging AI applications.
+            Resourceful Renewable Energy Engineer with a passion for integrating sustainable solar solutions within industries, households, and beyond. Recognized for his data-driven mindset honed through expertise in solar systems design, quantitative analysis using Excel/Google Sheets, and an emerging specialization in AI and IoT applications. He is a quick study with a proclivity for creative problem-solving.
           </p>
         </div>
       </div>
